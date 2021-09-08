@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Evil Sofia AI](https://t.me/EvilSofiaAI)
 
-- 👨‍💻 All of my projects are available at [t.me/MENUBOG](t.me/MENUBOG)
+- 👨‍💻 All of my projects are available at [BARROSOE MENU](https://t.me/MENUBOG)
 
 - 📫 How to reach me **t.me/BARROSOE**
 
