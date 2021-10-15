@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barrosoe&label=Profile%20views&color=0e75b6&style=flat" alt="barrosoe" /> </p>
 
-- 🔭 I’m currently working on [Evil Sofia AI](https://t.me/EvilSofiaAI)
+- 🔭 I’m currently working on [BoG Team (LOML END-TO-END PROTOCOL)](https://t.me/BoGHacking)
 
 - 👨‍💻 All of my projects are available at [BARROSOE MENU](https://t.me/MENUBOG)
 
