@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [BARROSOE MENU](https://t.me/MENUBOG)
 
-- 📫 How to reach me **t.me/BARROSOE**
+- 📫 How to reach me [Emilio B.](https://t.me/BARROSOE)
 
 - ⚡ Fun fact **I can write code for hours, but I can't do homework. #ADHD**
 
