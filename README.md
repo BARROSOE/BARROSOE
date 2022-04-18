@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilio Barroso</h1>
-<h3 align="center">Mexican developer, 16 years old.</h3>
+<h3 align="center">Mexican developer, 17 years old.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barrosoe&label=Profile%20views&color=0e75b6&style=flat" alt="barrosoe" /> </p>
 
